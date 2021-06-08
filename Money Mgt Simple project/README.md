@@ -1,9 +1,6 @@
-# final_project_final_submission_programming1_2020
+# Mobile Mgt Simple project
 
-Authors: Barezi Julien and Gihozo Landelin
-
-
-This is a program that can help users to do various banking operations without physical movement of
+This is a (beginner) program that can help users to do various banking operations without physical movement of
 cash rather this can be cashless. Our program has three classes called Account,
 customer account, and business account and all of these will have different methods.
 
@@ -28,6 +25,3 @@ with that username will be created.
 
 There are no modules required to install in order run the program
 
-here is the link to the recording where we run the program:
-
-https://drive.google.com/drive/folders/18E-xHj963R7GtyCaqGSVBvj7TAy9dMP3?usp=sharing
